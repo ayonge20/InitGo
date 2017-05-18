@@ -1,3 +1,3 @@
 # InitGo
 
-#Go language study notes
+## Go language study notes
